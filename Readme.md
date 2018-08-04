@@ -11,3 +11,5 @@ I have tried three different CNN on the given dataset.
 </ul>
 
 You can see the difference in the accuracy of models between a custom one and the one which utilizes Transfer Learning
+
+Run the prep.py file to preprocess and generate the npz file on which the jupyter notebook runs
